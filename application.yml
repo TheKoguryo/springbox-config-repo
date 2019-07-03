@@ -3,4 +3,4 @@ management:
     web:
       exposure:
         include: "*"
-greeting: Hello %s from Git!
+greeting: Hello %s from Git ver1.1!
